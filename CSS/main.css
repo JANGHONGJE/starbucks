@@ -899,16 +899,17 @@ footer .btn-group .btn:last-child {
   margin-right: 0;
 }
 
-margin .info {
+footer .info {
   margin-top: 30px;
-  text-align: center;
+  text-align: center;  
 }
-margin .info span {
+
+footer .info span {
   margin-right: 20px;
-  counter-reset: #999;
+  color: #999;
   font-size: 12px;
 }
-margin .info span:last-child {
+footer .info span:last-child {
   margin-right: 0;
 }
 
